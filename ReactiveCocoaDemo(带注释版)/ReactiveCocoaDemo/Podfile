@@ -1,0 +1,11 @@
+platform :ios, '7.0'
+
+target 'ReactiveCocoaDemo' do
+
+pod 'AFNetworking' , '~> 2.5.3'
+pod 'MJRefresh'
+pod 'ReactiveCocoa', '~> 2.5'
+pod 'MJExtension', '~> 2.5.9'
+pod 'AFNetworking-RACExtensions', '~> 0.1.8'
+
+end
